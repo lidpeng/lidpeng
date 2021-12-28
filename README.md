@@ -4,8 +4,8 @@ Keep growing!
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=onevcat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
-- :orange_book Research Interest: Multi-Agent reinforcement learning, Data analyst. 
-- :hammer: Ph.D candidate in UCAS
+- 🔭 Research Interest: Multi-Agent reinforcement learning, Data analyst. 
+- 🔨 Education: Ph.D candidate in UCAS
 - 📫 Email:lidapeng2020@ia.ac.cn
 - 💬 Personal Page: https://lidpeng.github.io/
 
@@ -13,7 +13,7 @@ Keep growing!
 **lidpeng/lidpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
