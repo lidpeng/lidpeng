@@ -1,7 +1,6 @@
 ### Hi, Here is Dapeng!
 
-### [![Dapeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=lidpeng)](https://github.com/lidpeng/github-readme-stats)
-
+###![info](https://github-readme-stats.vercel.app/api?username=lidpeng&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 <!--
 **lidpeng/lidpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
