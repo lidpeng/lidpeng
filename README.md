@@ -2,7 +2,7 @@
 I'm Dapeng.
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lidpeng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
-- 🔭 Research Interest: MARL, Data analyst. 
+- 🔭 Research Interest: MARL, Data analyst, Quant. 
 - 🔨 Education: Ph.D candidate in UCAS
 - 📫 Email:lidapeng2020@ia.ac.cn
 - 💬 Personal Page: https://lidpeng.github.io/
